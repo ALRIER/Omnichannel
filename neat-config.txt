@@ -12,6 +12,7 @@ num_hidden              = 0
 num_direct              = 0
 feed_forward            = True
 initial_connection      = full_direct
+enabled_default         = True 
 
 # Activation
 activation_default      = relu
